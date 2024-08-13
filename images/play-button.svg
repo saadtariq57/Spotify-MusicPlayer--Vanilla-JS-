@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg 
+  width="40"
+  height="40"
+  viewBox="0 0 40 40"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background circle with green border and some padding -->
+  <circle cx="20" cy="20" r="18" stroke="green" stroke-width="2" fill="green"/>
+  <!-- Resized and repositioned play symbol to fit within the new viewBox and padding -->
+  <path d="M27.5 20L12.5 27.5V12.5L27.5 20Z" fill="#000000" />
+</svg>
